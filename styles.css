@@ -5,15 +5,11 @@
     width: 35%;
    border: solid rgb(88, 252, 88) 4px;
 }
-.grid{
-    display: grid;
-    grid-template-rows: repeat(3,175px);
-    gap: 10px;
-    padding: 10px;
-    
-}
+
 .rows{
     background-color: rgba(91, 69, 53, 0.959);
+	height:150px;
+	margin:10px;
 }
 .item1{
     background-color: blue;
