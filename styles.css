@@ -11,7 +11,7 @@
 	height:150px;
 	margin:10px;
 }
-.col-sm-4, .col-sm-8, .row{
+.col-md-4, .col-sm-6, .row, .col-md-8{
 	border:dotted 2px;
 }
 /* Your CSS Code here. */
