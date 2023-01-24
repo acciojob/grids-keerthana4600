@@ -11,27 +11,7 @@
 	height:150px;
 	margin:10px;
 }
-.item1{
-    background-color: blue;
-}
-.item2{
-    background-color: purple;
-   
-}
-.item3{
-    background-color: tomato;
-
-}
-.item4{
-    background-color: aqua;
-}
-.item5{
-    background-color: darksalmon;
-}
-.item6{
-    background-color: chartreuse;
-}
-.item1, .item2, .item3, .item4, .item5, .item6{
-    border:dotted black 2px;
+.col-4, .col-8, .row{
+	border:dotted 2px;
 }
 /* Your CSS Code here. */
