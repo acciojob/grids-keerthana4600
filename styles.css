@@ -1,2 +1,16 @@
-
+.container{
+    margin-top: 20px;
+    justify-self: center;
+    background-color: pink;
+    width: 35%;
+   border: solid rgb(88, 252, 88) 4px;
+}
+.row{
+    background-color: rgba(91, 69, 53, 0.959);
+	height:150px;
+	margin:10px;
+}
+.col-md-4, .col-md-8, .row, .col-sm-6{
+	border:dotted 2px;
+}
 /* Your CSS Code here. */
